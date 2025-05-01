@@ -1,8 +1,4 @@
-# React + Vite
+### KrishiMitra+ — Plant Disease Detection and Agricultural Recommendation Platform
+Python, FastAPI, CNN, GROK API, OpenWeatherMap API, React.js, TensorFlow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Developed an intelligent multilingual web application that detects plant diseases from leaf images using a CNN model and provides treatment recommendations (organic, chemical, preventive). Integrated GROK API to generate personalized agricultural advice, and built a chatbot to assist with queries related to pesticides, fertilizers, and subsidies. Real-time email alerts were implemented using weather data, and an interactive dashboard provides crop market trends and forecasts. The platform includes video tutorials, text-to-speech functionality, and a user-friendly interface to empower farmers with timely and actionable insights.
